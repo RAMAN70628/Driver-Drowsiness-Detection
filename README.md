@@ -1,2 +1,17 @@
-# Driver-Drowsiness-Detection
-A Real-Time Vision-Based Framework for Driver Drowsiness Detection via Ocular and Oral Behavioral Analysis with Score-Based Alert Generation.
+# Driver Drowsiness Detection System
+
+A real-time Driver Drowsiness Detection System using CNN and MediaPipe Face Mesh.
+
+## Features
+- Eye Closure Detection
+- Yawn Detection
+- Real-time Webcam Monitoring
+- Audio Alarm
+
+## Technologies
+- Python
+- TensorFlow
+- OpenCV
+- MediaPipe
+- NumPy
+- Pygame
